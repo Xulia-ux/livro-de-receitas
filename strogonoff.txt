@@ -1,0 +1,9 @@
+# Strogonoff de Frango :chicken
+ - primeiro ingrediente
+ - segundo ingrediente
+ - terceiro ingrediente
+ - ...
+
+**negrito**
+_itálico_ 
+
