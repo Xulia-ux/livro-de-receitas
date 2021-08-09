@@ -1,6 +1,7 @@
-# Livro de Receitas :chief
+# Livro de Receitas 
 
 ## Bem-vindo ao livro de receitas!
 
  - Strogonoff de frango
- 
+ - Pavê
+
